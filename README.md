@@ -8,7 +8,11 @@ Please note that this project is still growing and your support will be welcomed
     - Install packages with ```yarn install```
     - To run the project run ```yarn start```
 
-For further information or support feel free to get in touch. https://t.me/woueziou 
+For further information or support feel free to get in touch.
+
+https://t.me/woueziou 
+
 Made with love to HapiJS.
+
 👽👽👽
 
