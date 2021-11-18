@@ -1,0 +1,12 @@
+node_modules
+*.log
+
+
+.fake
+.ionide
+.env
+package-lock.json
+yarn.lock
+public/
+tokens/
+logs/
