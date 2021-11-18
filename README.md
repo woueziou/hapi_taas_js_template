@@ -1,6 +1,7 @@
 # HapiTaasJS template
 this project comes with a ready auth and api scheme to get started quickly. 
 Please note that this project is still growing and your support will be welcomed with pleasure.... 🔥🔥🔥😊😊💕💕💕
+
     - First duplicate the env.txt file and rename it to .env
     - Change config if necessary
     - Install yarn globaly with  ```npm install -g yarn```
