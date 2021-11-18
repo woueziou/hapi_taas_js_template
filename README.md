@@ -1,4 +1,4 @@
-# HapiTaasJS template
+# HapiJS Taas template
 this project comes with a ready auth and api scheme to get started quickly. 
 Please note that this project is still growing and your support will be welcomed with pleasure.... 🔥🔥🔥😊😊💕💕💕
 
